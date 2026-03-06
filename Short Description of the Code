@@ -1,0 +1,3 @@
+Short Description of the Code
+This Python program implements the Insertion Sort algorithm to sort a list of numbers in monotonically decreasing order (largest to smallest). The function insertion_sort_desc() iterates through the array starting from the second element, compares it with previous elements, and shifts smaller values to the right until the correct position for the current element is found. The program then inserts the element in its proper place to maintain decreasing order. In the main section, a sample list of numbers is provided, the sorting function is called, and the program prints both the original array and the sorted array.
+
